@@ -3,4 +3,14 @@
     <string name="app_name">Android Labs</string>
     <string name="hello_message">你好</string>
     <string name="ButtonText">我是按钮</string>
+    <string name='enterEmailTextView'>请输入你的邮箱地址 : </string>
+    <string name='enterEmail'>这里输入你的邮箱地址 : </string>
+    <string name='enterPwdTextView'>输入你的密码 : </string>
+    <string name='loginbtn'>登录</string>
+    <string name='your_profile'>你的账户</string>
+    <string name='your_name'>你的名字</string>
+    <string name='name_input'>输入你的名字</string>
+    <string name='your_email'>你的邮件:</string>
+    <string name='email_input'>输入你的邮箱 ： </string>
+    <string name='notice_take_picture'>点击上面按钮拍照</string>
 </resources>
